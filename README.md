@@ -33,9 +33,8 @@ Can also be used with my other reskins
 - [qb-clothing](https://github.com/ST4LTH/qb-clothing)
 
 ## Screenshots
-![Character Selection](https://i.imgur.com/jPxFucu.jpeg)
-![Character Registration](https://i.imgur.com/s2PWtHL.jpeg)
-![Character Deletion](https://i.imgur.com/YBiLgs2.jpeg)
+![Character Selection](https://i.imgur.com/OPg242t.png)
+![Character Registration](https://i.imgur.com/eUEeWEt.png)
 
 ## Features
 - Ability to create up to 4 characters and delete any character.
